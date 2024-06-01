@@ -1,5 +1,5 @@
 # Sports Club Management System (SCMS)
-![Sports Club Management System](https://github.com/Santhanalakmi/sports_club_mangement/assets/129834072/78b7607a-5cff-4022-ac04-11543842f6a9)
+![Sports Club Management System](https://github.com/Santhanalakmi/sports_club_mangement/assets/129834072/f8baea93-7604-4d4a-b471-b38633ba0fe6)
 
 ## Abstract
 
